@@ -1,0 +1,16 @@
+# PostgreSQL database files
+postgres/data/
+pgdata/
+postgres_data/
+
+# Environment secrets
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+.venv/
+venv/
+
+# Logs
+logs/
